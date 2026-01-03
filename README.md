@@ -1,2 +1,2 @@
 # HASEE-hbe6s-bios-backup-and-undervoit-mode
-BIOS backups of different versions and functions, such as microcode updates and undervolting
+This is the official BIOS backup for the Hasee HBE6S laptop and some BIOS backups with custom microcode components. These microcode components are typically used to bypass ununlockable undervoltage protection to apply voltage offsets to the processor, preventing the high default VID voltage of Intel 13th and 14th Gen HX processors from damaging the CPU, and reducing processor power consumption and temperature.
